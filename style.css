@@ -53,3 +53,7 @@
 #texto-contador , #carta-contador , #texto-contador2 {
   display: inline;
 }
+
+span {
+  display: inline-block;
+}
